@@ -1,0 +1,34 @@
+
+body{
+
+  background: -webkit-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #F0C27B 10%, #4B1248 90%); /* W3C */
+         
+}
+
+.container {
+	position:relative;
+	float: center;
+	height: 100%;
+ 	width: 50%;
+  	margin: auto;
+  	margin-top:15%;
+}
+
+h1 {
+	color:#E3DBED;
+	font-size:2.5em;
+	
+}
+
+h2{
+	color:#E3DBED;
+	font-family: 'Poiret One', cursive;
+}
+p {
+	color:#E3DBED;
+	font-family: 'Poiret One', cursive;
+}
